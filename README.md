@@ -21,8 +21,8 @@ Calculating Average Selling Prices.
 
 ### 6. Visualizations: The dashboard relies on various chart types to present insights:
 
-Bar charts and Clustered Column Charts (for dealer performance, body style, etc.).
-Line Graphs (for sales trends over time, like weekly or monthly trends).
+Bar charts and Clustered Column Charts (for dealer performance, body style, etc.). <br>
+Line Graphs (for sales trends over time, like weekly or monthly trends). <br>
 Pie or Donut Charts (for distribution by color or body style).
 Map Visuals (for geographical sales distribution by Dealer Region).
 Slicers/Filters: These enable the interactivity of the dashboard, allowing users to dynamically filter data by criteria such as Year, Dealer Region, Model, Company, Engine, and Transmission.
@@ -59,4 +59,4 @@ Effective Marketing and Resource Allocation: The dashboard helps focus marketing
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/saheedchy/Car_Sales_Dashboard/blob/main/Car%20Sales%20Dasboard%20Snapshot.png)
