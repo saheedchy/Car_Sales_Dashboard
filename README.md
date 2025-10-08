@@ -1,5 +1,5 @@
 ### 1. Car_Sales_Dashboard (Power BI)
-Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
+Developed an interactive dashboard using Power BI to visualize sales trends, inventory levels and dealership performance.
 
 ### 2.	Short Description / Purpose
 
