@@ -1,4 +1,4 @@
-### 1. Car_Sales_Dashboard (Power BI & SQL)
+### 1. Car_Sales_Dashboard (Power BI)
 Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
 
 ### 2.	Short Description / Purpose
@@ -7,8 +7,6 @@ The Care Sales Dashboard is to provide a comprehensive, single-screen view of cr
 
 ### 3.Core Tools
 Power BI (Microsoft Power BI Desktop): This is the main Business Intelligence (BI) tool used to create the interactive visualizations, overall dashboard layout, and user experience (UX).
-
-SQL (Structured Query Language): Used as the data source to store and manage the raw car sales data. Advanced SQL queries are typically written to filter the data by attributes like transmission type, body style, and manufacturer before it is loaded into Power BI.
 
 ### 4.Key Power BI Technologies
 Power Query (M Language): Used for Data Cleaning and Transformation (ETL process) to prepare the raw data for analysis. This includes steps like renaming columns, setting data types, handling duplicates, and cleaning text fields.
